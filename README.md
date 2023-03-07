@@ -4,15 +4,6 @@
 
 ### Trabajo para una empresa de desarrollo en Medellin, Colombia
 
-|Comando  | Descripcion         |
-|---------|---------------------|
-|cd       |Cambiar de directorio|
-|mkdir    |Crear directorio     |
-|ls       | Listar directorio   |
-|cp       |Copiar archivo       |
-|rm       |Eliminar directorioa |
-|touch    |Crea archivo         |
-
 
 
 
