@@ -1,6 +1,23 @@
-### Hi there 👋
+# Sebastian Estrada Betancur
+
+## Desarrollador Java y Power Builder
+
+### Trabajo para una empresa de desarrollo en Medellin, Colombia
+
+|Comando  | Descripcion         |
+|---------|---------------------|
+|cd       |Cambiar de directorio|
+|mkdir    |Crear directorio     |
+|ls       | Listar directorio   |
+|cp       |Copiar archivo       |
+|rm       |Eliminar directorioa |
+|touch    |Crea archivo         |
+
+
+
 
 <!--
+### Hi there 👋
 **sebasestradab/sebasestradab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
